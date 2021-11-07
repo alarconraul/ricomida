@@ -1,0 +1,214 @@
+.graybg{
+    background-color: #373A3C;
+    font-weight: 400px;
+    }
+
+.nav-link{
+    float: right;
+}
+.row{
+    padding-top: 20px;
+}
+
+.pizza img{
+   padding-top: 20px;
+}
+.padding-bottom{
+    padding-bottom: 40px;
+}
+h1{
+    font-family: Cabin;
+    font-weight: 700;
+    font-size: 40px;
+    color: #707070;
+    padding-top: 34px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+}
+.ingredientes{
+    font-family: 'Cabin';
+    font-weight: 400;
+    font-size: 20px;
+}
+#food-carousel{
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.border-black{
+    border-bottom: 3px solid black;
+    width: 200px;
+    padding-top: 30px;
+}
+ul{
+    list-style: none;
+
+}
+li{
+    padding-bottom: 30px;
+    text-align: justify;
+}
+.ingredientes img{
+    height: 150px;
+    width: 260px;
+ 
+}
+.recetas{
+    padding: 30px;
+    text-align: justify;
+}
+.text-align-center{
+    text-align: center;
+    padding: 20px;
+}
+
+.btn{
+    color: white;
+}
+.newsletter{
+    background-color: #DC3545;
+    font-family: Cabin;
+    color: white;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.logo{
+    font-family: 'Lobster';
+}
+.newsletter-title{
+    padding-bottom: 0px;
+    font-size: 40px;
+    text-align: center;
+}
+.newsletter-recomendations{
+    font-size: 30px;
+    font-weight: 400;
+}
+.btn-footer{
+    margin-right: 150px;
+    margin-top: 20px;
+    padding: 4px;
+    font-size: 25px;
+    border: 3px solid white;
+    margin-left: 150px;
+}
+.lobster{
+    font-family: 'Lobster';
+}
+.logo-footer{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    font-family: 'Lobster';
+    padding-top: 0px;
+}
+
+   
+@media only screen 
+    and (min-device-width: 320px) 
+    and (max-device-width: 568px){
+  
+
+.grayb{
+    background-color:#373A3C;
+    font-family: 'Lobster';
+    font-weight: 400px;
+}
+.navbar-toggler{
+    font-size: 4.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid white;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.pizza img{
+    height: 520px;
+    width: 681px;
+    margin-left: 90px;
+    float: unset;
+    padding-top: 60px;
+}
+.container{
+    font-size: 35px;
+}
+
+h1{
+    font-family: 'Cabin';
+    font-weight: 700;
+    font-size: 80px;
+    color: #373A3C;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 14px;
+}
+.margin-left{
+    margin-left: 83px;
+    font-size: 30px;
+}
+
+h2{
+    font-size: 75px;
+    padding-bottom: 26px;
+    font-size: 38px;
+    text-align: left;
+}
+h3{
+    text-align: left;
+    font-size: 65px;
+    font-weight: 400;
+}
+h5{
+    font-size: 46px;
+}
+.card-text{
+    font-size: 39px;
+}
+.ingredientes{
+    font-family: Cabin;
+    font-weight: 400px;
+    color: #373A3C;
+    padding-top: 70px;
+}
+.tiempo{
+    text-align: center;
+    font-size: 54px;
+    padding-left: 40px;
+}
+li{
+    font-size: 50px;
+}
+.recetas{
+    width: 45rem;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+.newsletter-title{
+    padding-bottom: 26px;
+    font-size: 92px;
+    text-align: center;
+}
+.newsletter-recomendations{
+    font-size: 65px;
+    font-weight: 400px;
+}
+
+.btn-footer{
+    margin-right: 140px;
+    margin-top: 20px;
+    padding: 30px;
+    font-size: 50px;
+    border: 3px solid white;
+    margin-left: 150px;
+}
+
+.logo-footer{
+    font-size: 120px;
+    color: white;
+    text-align: center;
+    font-family: 'Lobster';
+    padding-top: 10px;
+}
+
+
+}
